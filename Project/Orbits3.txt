@@ -1,0 +1,5 @@
+Planet, No. Orbits, Aphelion, Perihelion, Eccentricity, KeplerIII
+Sun, NaN, 0.004, 0.004, 0.000, NaN 
+Mercury, 1139.2, 0.464, 0.309, 0.200, 1.000 
+Venus, 446.3, 0.730, 0.715, 0.011, 1.000 
+NOTE: Moon orbit defined relative to Earth
